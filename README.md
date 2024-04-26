@@ -5,3 +5,5 @@ Instruksi untuk menjalankan aplikasi
 3. jalankan aplikasi dari browser seperti biasa 
 4. login menggunakan username dan password berikut
    1. username = zilki, password = 12345678, level = super admin
+   2. username = santana, password = 12345678, level = staff
+   3. username = rudiantara, password = 12345678, level = customers
